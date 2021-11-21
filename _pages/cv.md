@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educational Background
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* OSSD in NO.1 Middle School Affiliated to Central China Normal University    2015-2018 
+* B.S. in Computing Mathematics, City University of Hong Kong    2018-2022
+
 
 Work experience
 ======
