@@ -32,7 +32,7 @@ Research Experience
 * 07/2020-09/2020: Valuation for Financial Engineering 
   * Advisor: Prof. David C. Shimko (New York University)
   * Applying python and excel to carry out quantitative valuation and pricing for Vanilla and Exotic options, completing the essay "Valuation of Asian Option and Comparison with Vanilla Option in China Market" which was adopted by ICCSMT2020.
-  * "ChunyangCAO.github.io/image/Acceptance Proof.pdf"
+  * 
 
 * 09/2021-Present
   * Random Matrix Application to Correlations Amongst the volatility of Assets 
