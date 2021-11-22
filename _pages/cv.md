@@ -38,7 +38,7 @@ Research Experience
   * Advisor: Dr. Dan DAI (City University of Hong Kong)
   * Applying a standard GARCH(1,1) model to obtain volatility correlation matrix, its eigenvalues and eigenvectors, finding the local minimum of the root-mean-square error to determine parameters of Marchenko–Pastur distribution, using Marchenko–Pastur distribution to filter the noise in the information carried by eigenvalues.
 
-Publications
+My Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
