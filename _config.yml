@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chunyang CAO"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chunyang CAO"
   avatar           : "ChunyangCAO.github.io/images/photo.png"
-  bio              : "I am an undergraduate student from City University of Hong Kong. I majored in Mathematics and minored in Finance. I am interested in the valuation of financial derivatives, and I am applying for graduate programs in financial engineering and financial mathematics."
+  bio              : "Undergraduate student"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
