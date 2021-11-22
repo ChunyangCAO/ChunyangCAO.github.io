@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  research experience:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  work experience:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  interests:
+  talks:
     output: true
     permalink: /:collection/:path/
 
