@@ -19,3 +19,4 @@ Interests
 * Application of Random Matrix Theory in financial mathematics, especially some random matrix denoising methods. 
 * Option pricing strategies, including Black-Scholes model, Monte Carlo Simulation and Generalized Finite Integration Method
 * Quantitative models
+* Exotic options
