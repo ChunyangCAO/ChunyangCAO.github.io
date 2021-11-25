@@ -6,7 +6,7 @@ excerpt: 'This paper builds a multiple regression model for weights and health l
 date: 2020-12-17
 venue: 'Journal 1'
 paperurl: 'http://ChunyangCAO.github.io/files/Project1.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Chunyang CAO,Yuan SUN,Zhehao LI,2020 Regress Analysis on the Weight for Undergraduate Student in China.http://ChunyangCAO.github.io/files/Project1.pdf'
 ---
 
 
