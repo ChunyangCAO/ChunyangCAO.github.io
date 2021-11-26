@@ -8,7 +8,7 @@ venue: 'ICCSMT2020'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Chunyang Cao, Lei Wang, Shiyi Zhang(2020) Valuation of Asian Option and Comparison with Vanilla Option in China Market. ICCSMT2020'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
