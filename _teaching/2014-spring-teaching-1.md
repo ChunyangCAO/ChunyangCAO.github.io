@@ -1,10 +1,10 @@
 ---
 title: "Matlab project 1"
 collection: teaching
-type: ""
+type: "Author：Chunyang CAO"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 03/2020
+venue: "03"
+date: 2020
 location: "City University of Hong Kong"
 ---
 
