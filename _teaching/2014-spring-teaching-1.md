@@ -1,21 +1,14 @@
 ---
-title: "Matlab project 1"
+title: "Matlab codes 1"
 collection: teaching
-type: "Author：Chunyang CAO"
 permalink: /teaching/2014-spring-teaching-1
-venue: "03"
-date: 2020
-location: "City University of Hong Kong"
+excerpt: 'This program runs to draw triangles recursively'
+date: 2020-03
+venue: 'my academic website'
+paperurl: 'ChunyangCAO.github.io/files/Infinitely_subdivided_triangles.pdf'
+citation: ''
 ---
 
-A matlab program that draws triangles recursively<br> 
-You can get the program from this link: ChunyangCAO.github.io/files/Infinitely_subdivided_triangles.pdf
 
-Heading 1
-======
+[Download paper here](ChunyangCAO.github.io/files/Infinitely_subdivided_triangles.pdf)
 
-Heading 2
-======
-
-Heading 3
-======
