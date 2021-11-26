@@ -9,7 +9,7 @@ location: "City University of Hong Kong"
 ---
 
 A matlab program that draws triangles recursively<br> 
-You can get the program from this link: <a href="ChunyangCAO.github.io/files/Infinitely_subdivided_triangles.pdf">
+You can get the program from this link: ChunyangCAO.github.io/files/Infinitely_subdivided_triangles.pdf
 
 Heading 1
 ======
