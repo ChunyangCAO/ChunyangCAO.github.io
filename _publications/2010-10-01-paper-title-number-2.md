@@ -12,4 +12,4 @@ citation: 'Chunyang Cao, Lei Wang, Shiyi Zhang(2020) Valuation of Asian Option a
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Chunyang Cao, Lei Wang, Shiyi Zhang(2020) Valuation of Asian Option and Comparison with Vanilla Option in China Market. ICCSMT2020'
