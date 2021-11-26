@@ -1,7 +1,7 @@
 ---
 title: "Valuation of Asian Option and Comparison with Vanilla Option in China Market"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper2
 excerpt: 'We used history data of Shanghai Composite Index to achieve necessary parameters and apply Black-Scholes model to price the Asian option.'
 date: 2020-11
 venue: 'ICCSMT2020'
