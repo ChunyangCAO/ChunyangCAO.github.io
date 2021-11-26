@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Valuation of Asian Option and Comparison with Vanilla Option in China Market"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'We used history data of Shanghai Composite Index to achieve necessary parameters and apply Black-Scholes model to price the Asian option.'
+date: 2020-11
+venue: 'ICCSMT2020'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Chunyang Cao, Lei Wang, Shiyi Zhang(2020) Valuation of Asian Option and Comparison with Vanilla Option in China Market. ICCSMT2020'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
